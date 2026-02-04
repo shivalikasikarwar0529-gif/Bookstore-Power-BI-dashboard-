@@ -9,13 +9,13 @@ The dashboard transforms raw transactional data into actionable insights, focusi
 
 ### 1. Strategic Overview
 Summary of total books, authors, and orders to understand the scale of operations.
-<img width="707" height="496" alt="Bookstore analysis (Market Performance)" src="https://github.com/user-attachments/assets/077b8438-5d3d-48ee-945e-092954a3ecdb" />
-
+<img width="574" height="494" alt="Bookstore analysis (Overview)" src="https://github.com/user-attachments/assets/858355d1-35ac-451a-8c04-5bdd6306993e" />
 
 
 ### 2. Market Performance
 A look at the $73K total revenue with a trend analysis from 2022 to 2024.
-<img width="574" height="494" alt="Bookstore analysis (Overview)" src="https://github.com/user-attachments/assets/858355d1-35ac-451a-8c04-5bdd6306993e" />
+<img width="707" height="496" alt="Bookstore analysis (Market Performance)" src="https://github.com/user-attachments/assets/077b8438-5d3d-48ee-945e-092954a3ecdb" />
+
 
 ### 3. Quick Snapshots & Inventory
 Real-time inventory tracking, including value ($685K) and low-stock alerts.
